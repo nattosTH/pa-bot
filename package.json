@@ -1,0 +1,22 @@
+{
+  "name": "pa-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "pnpm tsc",
+    "build:watch": "pnpm tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nattosTH/pa-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "18",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
